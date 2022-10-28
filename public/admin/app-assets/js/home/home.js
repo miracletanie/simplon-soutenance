@@ -1,0 +1,1 @@
+// swal('notification', 'kaboom', 'success');
